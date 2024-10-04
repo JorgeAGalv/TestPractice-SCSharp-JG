@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|c:\\users\\jgalvez\\documents\\practice selenium c#\\project\\testpractice-scsharp-jg\\testproject1\\testproject1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|c:\\users\\jgalvez\\documents\\practice selenium c#\\project\\testpractice-scsharp-jg\\testproject1\\testproject1\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|c:\\users\\jgalvez\\documents\\practice selenium c#\\project\\testpractice-scsharp-jg\\testproject1\\testproject1\\pages\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|c:\\users\\jgalvez\\documents\\practice selenium c#\\project\\testpractice-scsharp-jg\\testproject1\\testproject1\\pages\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\pages\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|c:\\users\\jgalvez\\documents\\practice selenium c#\\project\\testpractice-scsharp-jg\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C572A300-526A-4DBF-9430-49AECAB18ED7}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\ProductPage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\ProductPage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\ProductPage.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:18:36.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\Products.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\Products.cs",
+              "ToolTip": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\Products.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:16:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Women.cs",
+              "DocumentMoniker": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\Women.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\Women.cs",
+              "ToolTip": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\Women.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\Women.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:14:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\Pages\\HomePage.cs",
+              "RelativeToolTip": "TestProject1\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwHgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:27:28.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jgalvez\\Documents\\Practice Selenium C#\\Project\\TestPractice-SCSharp-JG\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:10:27.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
